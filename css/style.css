@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    color:blanchedalmond;
+    font-size: 44px;
+}
+
+h2 {
+    color: rgb(231, 148, 70);
+    font-size: 30px;
+}
+
+h3 {
+    color: rgb(214, 198, 175);
+    font-size: 32px;
+    font-weight:normal;
+    margin-bottom: 0px;
+}
+
+body {
+    background-color: darkslategrey;
+    color: white;
+    font-size: 18px;
+}
+
+body.center {
+    text-align: center;
+}
+
+a {
+    color: pink;
+}
+
+a.big {
+    font-size: 18px;
+    color: pink;
+}
+
+ul.horiz li {
+    font-size: 20px;
+    display:inline-block;
+    padding-inline: 10px;
+}
+
+
+ul.pics li {    
+    color:rgb(159, 189, 140);
+    font-size:20px;
+    display:inline-block;
+    padding-inline: 10px;
+    text-align: center;
+}
+
+ul.pics li figure img {
+    width: 400px;
+    height: auto;
+}
+/*
+ul.pics li figcaption {
+    color:rgb(168, 59, 59);
+    font-size:18px;
+}
+
+img {
+    width: 300px;
+}
+    */
