@@ -76,3 +76,8 @@ div.center {
   padding: 10px;
   text-align: center;
 }
+div.right {
+  margin: auto;
+  padding: 10px;
+  text-align: right;
+}
